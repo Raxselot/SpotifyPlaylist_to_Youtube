@@ -34,6 +34,12 @@ Add your Playlist
     youtube_playlist_title = "Push Youor Luck"         --> Chose name of your new Playlist 
     youtube_playlist_description = "Diese Playlist wurde von Spotify zu YouTube konvertiert."  --> Description for the New Playlist 
 
+Find your new playlist under https://www.youtube.com/playlist?list= ADD HERE THE VALUE OUT OF THE LOG 
+
+2024-09-19 09:32:57,621 - INFO - YouTube-Playlist erfolgreich erstellt: PLGn4zF8bFCZZjSrSSjiNNZZamdi846ERG
+
+https://www.youtube.com/playlist?list=PLGn4zF8bFCZZjSrSSjiNNZZamdi846ERG
+
 
 Logs you will see if code rund successfull: 
 ![image](https://github.com/user-attachments/assets/6a947e2d-3343-48f6-8748-d5bef003d352)
