@@ -1,7 +1,7 @@
 Projekt: 
 
 
-The Spotify to Youtube Playlist Konverter is a Python Script das is able to konvert Spotify Playlist to Youtube Playlists. 
+The Spotify to Youtube Playlist Konverter is a Python Script that is able to konvert Spotify Playlist to Youtube Playlists. 
 
 The Tool uses the Spotify API and the Youtube V4 API
 
