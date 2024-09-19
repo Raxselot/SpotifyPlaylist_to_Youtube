@@ -36,6 +36,6 @@ Add your Playlist
 
 
 Logs you will see if code rund successfull: 
-![image](https://github.com/user-attachments/assets/9a4ec48c-7ec0-4327-af24-4dffdca722dd)
+![image](https://github.com/user-attachments/assets/6a947e2d-3343-48f6-8748-d5bef003d352)
 
 
